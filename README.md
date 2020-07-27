@@ -7,4 +7,11 @@ During this assignment I leanred a lot about the DOM. I would say the simplest p
 Link to the depolyed project:
 https://davidlindnerjr.github.io/HW04-CodeQuiz/
 
+![Code Quiz - Google Chrome 7_26_2020 5_23_43 PM](https://user-images.githubusercontent.com/65383133/88493343-72081400-cf65-11ea-9e01-f92a89f79e53.png)
+![Code Quiz - Google Chrome 7_26_2020 5_23_54 PM](https://user-images.githubusercontent.com/65383133/88493345-73394100-cf65-11ea-8628-f0ccc411b1bc.png)
+![Code Quiz - Google Chrome 7_26_2020 5_25_07 PM](https://user-images.githubusercontent.com/65383133/88493346-73394100-cf65-11ea-9511-bfe1295a4e37.png)
+![Code Quiz - Google Chrome 7_26_2020 5_25_16 PM](https://user-images.githubusercontent.com/65383133/88493347-73d1d780-cf65-11ea-92b5-be293bcd061f.png)
+![Code Quiz - Google Chrome 7_26_2020 5_25_23 PM](https://user-images.githubusercontent.com/65383133/88493348-73d1d780-cf65-11ea-842b-f15e7476d1af.png)
+![Code Quiz - Google Chrome 7_26_2020 5_25_33 PM](https://user-images.githubusercontent.com/65383133/88493350-746a6e00-cf65-11ea-9429-efc1c934546a.png)
+![Code Quiz - Google Chrome 7_26_2020 5_25_53 PM](https://user-images.githubusercontent.com/65383133/88493351-746a6e00-cf65-11ea-8ebb-8f6fd9b2dbf1.png)
 
