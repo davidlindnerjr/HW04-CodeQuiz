@@ -5,5 +5,6 @@ In this project I was tasked with creating a Code Quiz primarily using the Docum
 During this assignment I leanred a lot about the DOM. I would say the simplest part of the DOM would be selecting, creating, and setting attributes to elements. The more complicated part of the DOM would have to be local storage. Saving and displaying items from local storage was the biggest headache out of the assignment. But overall the assignment went great and I am content with how it turned out.
 
 Link to the depolyed project:
+https://davidlindnerjr.github.io/HW04-CodeQuiz/
 
 
