@@ -2,7 +2,7 @@
 
 In this project I was tasked with creating a Code Quiz primarily using the Document Object Model in JavaScript. The quiz it asks a series of questions all relating to Javascript syntax. The quiz is set on a one minute timer and starts when a button is clicked. If a question is answered correctly then a "Correct!" message will appear at the bottom of the screen; if a question is answered incorrectly then a "Wrong :(" message will appear at the bottom. Both messages will proceed with a "next" button to take the player to the next question. The quiz is over when time runs out or all questions have been answered. At the very end of the quiz the players score will be displayed and the player will have the option of entering their initials to be set at as the previous score. Once the player enters their initials and presses "submit" an alert will pop us showing that their score has been saved. Reloading the quiz and retaking it will show the previous score of the last quiz taken.
 
-During this assignment I leanred a lot about the DOM. I would say the simplest part of the DOM would be selecting, creating, and setting attributes to elements. The more complicated part of the DOM would have to be local storage. Saving and displaying items from local storage was the biggest headache out of the assignment. But overall the assignment went great and I am content with how it turned out.
+During this assignment I learned a lot about the DOM. I would say the simplest part of the DOM would be selecting, creating, and setting attributes to elements. The more complicated part of the DOM would have to be local storage. Saving and displaying items from local storage was the biggest headache out of the assignment. But overall the assignment went great and I am content with how it turned out.
 
 Link to the depolyed project:
 https://davidlindnerjr.github.io/HW04-CodeQuiz/
@@ -15,3 +15,22 @@ https://davidlindnerjr.github.io/HW04-CodeQuiz/
 ![Code Quiz - Google Chrome 7_26_2020 5_25_33 PM](https://user-images.githubusercontent.com/65383133/88493350-746a6e00-cf65-11ea-9429-efc1c934546a.png)
 ![Code Quiz - Google Chrome 7_26_2020 5_25_53 PM](https://user-images.githubusercontent.com/65383133/88493351-746a6e00-cf65-11ea-8ebb-8f6fd9b2dbf1.png)
 
+Copyright (c) 2020 David Lindner
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
